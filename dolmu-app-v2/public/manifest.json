@@ -1,0 +1,27 @@
+{
+  "name": "Dolmu-app v2 | Kırıkkale Ulaşım Rehberi",
+  "short_name": "Dolmu-app",
+  "description": "Kırıkkale şehir içi dolmuş saatleri, güzergah haritası, aktarma bulucu ve canlı durak bildirimleri.",
+  "lang": "tr-TR",
+  "start_url": "/dolmus-app/",
+  "scope": "/dolmus-app/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "categories": ["navigation", "travel", "utilities"],
+  "icons": [
+    {
+      "src": "/dolmus-app/icons/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/dolmus-app/icons/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
